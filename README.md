@@ -6,7 +6,7 @@
 
 ###
 
-<h2> align="left">🚀 Sobre Mim<br></h2>
+<h2>🚀 Sobre Mim<br></h2>
 <ul>
   <li>🎓 Estudante de análise e desenvolvimento de sistemas na FIAP | Futuro programador fullstack!</li>
   <li>💼 Interessado em [Tecnologias/Indústrias] | [Linguagens, Frameworks e Ferramentas]</li>
