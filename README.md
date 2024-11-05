@@ -12,6 +12,7 @@
   <li>💼 Interessado em [Tecnologias/Indústrias] | [Linguagens, Frameworks e Ferramentas]</li>
   <li>📚 Sempre aprendendo algo novo | [Cursos, Livros, Certificações]</li>
 </ul>
+
 ###
 
 <div align="center">
@@ -24,11 +25,24 @@
 
 ###
 
-<p align="left">🛠️ Tecnologias e Ferramentas<br><br>Aqui estão algumas das tecnologias e ferramentas com as quais trabalho regularmente:<br><br>Linguagens: [Python, JavaScript, Java, etc.]<br>Frameworks: [React, Node.js, etc.]<br>Ferramentas de Desenvolvimento: [Git, Docker, etc.]<br>Interesses em Aprendizado: [Machine Learning, Cloud Computing, etc.]</p>
+<h2>🛠️ Tecnologias e Ferramentas</h2>
+<p>Aqui estão algumas das tecnologias e ferramentas com as quais trabalho regularmente:</p>
+<ul>
+  <li>Linguagens: [Python, JavaScript, Java, etc.]</li>
+  <li>Frameworks: [React, Node.js, etc.]</li>
+  <li>Ferramentas de Desenvolvimento: [Git, Docker, etc.]</li>
+  <li>Interesses em Aprendizado: [Machine Learning, Cloud Computing, etc.]</li>
+</ul>
 
 ###
 
-<p align="left">🌱 Projetos<br>Este repositório é uma coleção de projetos que eu desenvolvi ou contribui. Alguns dos projetos interessantes que você pode encontrar aqui incluem:<br><br>[Nome do Projeto 1]: Uma breve descrição do projeto. [Link]<br>[Nome do Projeto 2]: Outra breve descrição. [Link]<br>[Nome do Projeto 3]: Mais uma breve descrição. [Link]</p>
+<h2>🌱 Projetos</h2>
+<p>Este repositório é uma coleção de projetos que eu desenvolvi ou contribui. Alguns dos projetos interessantes que você pode encontrar aqui incluem:</p>
+<ul>
+  <li>[Nome do Projeto 1]: Uma breve descrição do projeto. [Link]</li>
+  <li>[Nome do Projeto 2]: Outra breve descrição. [Link]</li>
+  <li>[Nome do Projeto 3]: Mais uma breve descrição. [Link]</li>
+</ul>
 
 ###
 
