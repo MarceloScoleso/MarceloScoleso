@@ -1,9 +1,17 @@
-<p align="left">🌟 Bem-vindo ao Meu GitHub!<br><br>Olá! 👋 Sou apaixonado por tecnologia, desenvolvimento de software e sempre em busca de novos desafios. Este espaço reúne projetos, experimentos e contribuições que representam minha jornada de aprendizado e evolução no mundo da programação.</p>
+<h1 align="left">🌟 Bem-vindo ao Meu GitHub!</h1>
 
 ###
 
-<p align="left">🚀 Sobre Mim<br><br>🎓 Estudante de análise e desenvolvimento de sistemas na FIAP | Futuro programador fullstack!<br>💼 Interessado em [Tecnologias/Indústrias] | [Linguagens, Frameworks e Ferramentas]<br>📚 Sempre aprendendo algo novo | [Cursos, Livros, Certificações]</p>
+<p>Olá! 👋 Sou apaixonado por tecnologia, desenvolvimento de software e sempre em busca de novos desafios. Este espaço reúne projetos, experimentos e contribuições que representam minha jornada de aprendizado e evolução no mundo da programação.</p>
 
+###
+
+<h2> align="left">🚀 Sobre Mim<br></h2>
+<ul>
+  <li>🎓 Estudante de análise e desenvolvimento de sistemas na FIAP | Futuro programador fullstack!</li>
+  <li>💼 Interessado em [Tecnologias/Indústrias] | [Linguagens, Frameworks e Ferramentas]</li>
+  <li>📚 Sempre aprendendo algo novo | [Cursos, Livros, Certificações]</li>
+</ul>
 ###
 
 <div align="center">
