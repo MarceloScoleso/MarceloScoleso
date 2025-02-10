@@ -36,13 +36,7 @@
 
 ###
 
-<h2>🌱 Projetos</h2>
-<p>Este repositório é uma coleção de projetos que eu desenvolvi ou contribui. Alguns dos projetos interessantes que você pode encontrar aqui incluem:</p>
-<ul>
-  <li>[Nome do Projeto 1]: Uma breve descrição do projeto. [Link]</li>
-  <li>[Nome do Projeto 2]: Outra breve descrição. [Link]</li>
-  <li>[Nome do Projeto 3]: Mais uma breve descrição. [Link]</li>
-</ul>
+
 
 ###
 
