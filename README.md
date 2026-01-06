@@ -23,31 +23,26 @@ Aqui no meu GitHub compartilho projetos acadêmicos, estudos práticos e experi�
 <p>Estas são algumas das tecnologias com as quais já trabalhei ou estou estudando atualmente:</p>
 
 <ul>
-  <li><strong>Linguagens:</strong> JavaScript, TypeScript, Java, Python, C#</li>
-  <li><strong>Front-end:</strong> React, HTML5, CSS3, TailwindCSS</li>
-  <li><strong>Back-end & Plataforma:</strong> .NET (C#), Node.js</li>
-  <li><strong>DevOps:</strong> Git, GitHub, conceitos de CI/CD e versionamento</li>
-  <li><strong>Qualidade de Software (QA):</strong> Testes funcionais, lógica de testes e validação de software</li>
-  <li><strong>IoT:</strong> Conceitos de Internet das Coisas, integração entre hardware e software</li>
-  <li><strong>Ferramentas:</strong> Git, GitHub, Figma</li>
+  <li><strong>Linguagens de Programação:</strong> JavaScript, TypeScript, Java, C# e Python</li>
+
+  <li><strong>Desenvolvimento Front-end:</strong> React, HTML5, CSS3, TailwindCSS</li>
+
+  <li><strong>Back-end & Plataformas:</strong> Node.js, .NET</li>
+
+  <li><strong>Qualidade de Software (QA):</strong> Testes funcionais, lógica de testes, validação e garantia da qualidade</li>
+
+  <li><strong>DevOps & Versionamento:</strong> Git, GitHub, noções de CI/CD</li>
+
+  <li><strong>Internet das Coisas (IoT):</strong> Conceitos de integração entre hardware e software</li>
+
+  <li><strong>Ferramentas de Design & Apoio:</strong> Figma</li>
 </ul>
 
 ---
 
 <h2>📊 Estatísticas do GitHub</h2>
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=marceloscoleso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
-    height="150" 
-    alt="GitHub stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloscoleso&layout=compact&theme=dracula" 
-    height="150" 
-    alt="Top languages"
-  />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marceloscoleso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloscoleso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> </div>
 
 ---
 
@@ -84,7 +79,7 @@ Aqui no meu GitHub compartilho projetos acadêmicos, estudos práticos e experi�
 <h2>🌐 Conecte-se comigo</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/marcelo-scoleso" target="_blank">
+  <a href="https://www.linkedin.com/in/marcelo-scoleso/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
   <a href="https://www.instagram.com/Macinho_07" target="_blank">
