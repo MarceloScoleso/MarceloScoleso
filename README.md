@@ -1,94 +1,67 @@
-<h1 align="left">👋 Olá, eu sou o Marcelo!</h1>
+cat << 'EOF' > README.md
+# 👋 Olá, eu sou o Marcelo!
 
-<p align="left">
-Sou estudante de tecnologia na <strong>FIAP</strong>, apaixonado por desenvolvimento de software e em constante evolução. 
+Sou estudante de tecnologia na **FIAP**, apaixonado por desenvolvimento de software e em constante evolução.  
 Aqui no meu GitHub compartilho projetos acadêmicos, estudos práticos e experiências que refletem minha jornada como desenvolvedor.
+
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software** na FIAP  
+- 💻 Interesse em desenvolvimento Front-end, Engenharia de Software e Qualidade de Software (QA)  
+- 📈 Em constante aprendizado, buscando evoluir como desenvolvedor full stack  
+- 🎯 Objetivo: conquistar minha primeira oportunidade na área de tecnologia  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+Estas são algumas das tecnologias com as quais já trabalhei ou estou estudando atualmente:
+
+- **Linguagens de Programação:** JavaScript, TypeScript, Java, C# e Python  
+- **Desenvolvimento Front-end:** React, HTML5, CSS3, TailwindCSS  
+- **Back-end & Plataformas:** Node.js, .NET  
+- **Qualidade de Software (QA):** Testes funcionais, lógica de testes, validação e garantia da qualidade  
+- **DevOps & Versionamento:** Git, GitHub, noções de CI/CD  
+- **Internet das Coisas (IoT):** Conceitos de integração entre hardware e software  
+- **Ferramentas de Design & Apoio:** Figma  
+
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
 </p>
 
 ---
 
-<h2>🚀 Sobre mim</h2>
+## 🌐 Conecte-se comigo
 
-<ul>
-  <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e <strong>Engenharia de Software</strong> na FIAP</li>
-  <li>💻 Interesse em desenvolvimento Front-end, Engenharia de Software e Qualidade de Software (QA)</li>
-  <li>📈 Em constante aprendizado, buscando evoluir como desenvolvedor full stack</li>
-  <li>🎯 Objetivo: conquistar minha primeira oportunidade na área de tecnologia</li>
-</ul>
-
----
-
-<h2>🛠️ Tecnologias e Ferramentas</h2>
-
-<p>Estas são algumas das tecnologias com as quais já trabalhei ou estou estudando atualmente:</p>
-
-<ul>
-  <li><strong>Linguagens de Programação:</strong> JavaScript, TypeScript, Java, C# e Python</li>
-
-  <li><strong>Desenvolvimento Front-end:</strong> React, HTML5, CSS3, TailwindCSS</li>
-
-  <li><strong>Back-end & Plataformas:</strong> Node.js, .NET</li>
-
-  <li><strong>Qualidade de Software (QA):</strong> Testes funcionais, lógica de testes, validação e garantia da qualidade</li>
-
-  <li><strong>DevOps & Versionamento:</strong> Git, GitHub, noções de CI/CD</li>
-
-  <li><strong>Internet das Coisas (IoT):</strong> Conceitos de integração entre hardware e software</li>
-
-  <li><strong>Ferramentas de Design & Apoio:</strong> Figma</li>
-</ul>
-
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marceloscoleso&show_icons=true&theme=dracula)
-
----
-
-<h2>🚀 Tecnologias</h2>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-</div>
-
----
-
-<h2>🌐 Conecte-se comigo</h2>
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/marcelo-scoleso/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
   <a href="https://www.instagram.com/Macinho_07" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
   </a>
-</div>
+</p>
 
 ---
 
 <p align="center">
 ✨ <em>Este GitHub está em constante evolução, assim como minha carreira.</em>
 </p>
+EOF
