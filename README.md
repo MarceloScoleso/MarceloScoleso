@@ -40,15 +40,9 @@ Aqui no meu GitHub compartilho projetos acadêmicos, estudos práticos e experi�
 
 ---
 
-<h2>📊 Estatísticas do GitHub</h2>
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=marceloscoleso&show_icons=true&theme=dracula"
-    height="160"
-    alt="GitHub Stats"
-  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marceloscoleso&show_icons=true&theme=dracula)
 
 ---
 
