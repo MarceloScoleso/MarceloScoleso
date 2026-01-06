@@ -63,4 +63,3 @@ Estas são algumas das tecnologias com as quais já trabalhei ou estou estudando
 <p align="center">
 ✨ <em>Este GitHub está em constante evolução, assim como minha carreira.</em>
 </p>
-EOF
