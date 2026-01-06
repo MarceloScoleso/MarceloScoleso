@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 👋 Olá, eu sou o Marcelo!
 
 Sou estudante de tecnologia na **FIAP**, apaixonado por desenvolvimento de software e em constante evolução.  
